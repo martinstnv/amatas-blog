@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Lorem ipsum dolor sit amet
-date: 2023-12-31
+title: Example Article 3
+date: 2023-12-22
 classes: wide
 tags:
   - Lorem ipsum

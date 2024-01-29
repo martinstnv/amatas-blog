@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "AMATAS"
-  avatar           : "/assets/images/logo.jpg"
+  avatar           : "/assets/images/logo.jpeg"
   bio              : "Fully managed cyber governance, operations, and awareness services for companies of all sizes with limited security resources or expertise"
   links:
     - label: "Twitter"
