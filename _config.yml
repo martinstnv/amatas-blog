@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Blog"
+title                    : "Security Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Martin Stoynov"
+name                     : "AMATAS"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,26 +104,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Martin Stoynov"
-  avatar           : "/assets/images/avatar.jpg"
-  bio              : "Hacker / OSCP / OSWP / 📚👀"
+  name             : "AMATAS"
+  avatar           : "/assets/images/logo.jpg"
+  bio              : "Fully managed cyber governance, operations, and awareness services for companies of all sizes with limited security resources or expertise"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/martinstnv"
+      url: "https://twitter.com/amatasofficial"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/martinstnv"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://bg.linkedin.com/company/amatas-ltd"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/martinstnv"
+      url: "https://twitter.com/amatasofficial"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/martinstnv"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://bg.linkedin.com/company/amatas-ltd"
 
 # Reading Files
 include:
