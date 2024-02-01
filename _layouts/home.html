@@ -14,21 +14,21 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  <div class="flex-container">
+  <!-- <div class="flex-container">
     <dvi>
       <a class="carousel-control-prev" onclick="moveSlide(-1)">&#10094;</a>
     </dvi>
 
-    <div>
+    <div> -->
       {% for post in posts %}
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
-    </div>
+    <!-- </div>
 
     <div>
       <a class="carousel-control-next" onclick="moveSlide(1)">&#10095;</a>
     </div>
-  </div>
+  </div> -->
 
 </div>
 

@@ -11,45 +11,45 @@ search: false
 
 // Carousel
 
-.flex-container {
-  display: flex;
-  align-items: center;
-}
+// .flex-container {
+//   display: flex;
+//   align-items: center;
+// }
 
-.list__item {
-  display: none;
-}
+// .list__item {
+//   display: none;
+// }
 
-.active {
-  display: block;
-}
+// .active {
+//   display: block;
+// }
 
-.carousel-control-prev {
-  cursor: pointer;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  user-select: none;
-}
+// .carousel-control-prev {
+//   cursor: pointer;
+//   width: auto;
+//   padding: 16px;
+//   margin-top: -22px;
+//   font-weight: bold;
+//   font-size: 18px;
+//   transition: 0.6s ease;
+//   user-select: none;
+// }
 
-.carousel-control-next {
-  cursor: pointer;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  user-select: none;
-}
+// .carousel-control-next {
+//   cursor: pointer;
+//   width: auto;
+//   padding: 16px;
+//   margin-top: -22px;
+//   font-weight: bold;
+//   font-size: 18px;
+//   transition: 0.6s ease;
+//   user-select: none;
+// }
   
-.carousel-control-prev {
-  left: 0;
-}
+// .carousel-control-prev {
+//   left: 0;
+// }
 
-.carousel-control-next {
-  right: 0;
-}
+// .carousel-control-next {
+//   right: 0;
+// }
