@@ -3,8 +3,8 @@ header:
   overlay_image: /assets/images/hero.webp
   teaser: /assets/images/thumbnails/an-interview-with-a-legal-advisor.png
 image:
-  feature: /assets/images/hero.webp
-  thumb: /assets/images/hero.webp
+  feature: /assets/images/thumbnails/an-interview-with-a-legal-advisor.png
+  thumb: /assets/images/thumbnails/an-interview-with-a-legal-advisor.png
 entries_layout: grid
 title: "An Interview with a Legal Advisor"
 date: 2023-03-14

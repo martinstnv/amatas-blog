@@ -3,13 +3,14 @@ header:
   overlay_image: /assets/images/hero.webp
   teaser: /assets/images/thumbnails/how-to-decide-which-types-of-data-to-secure.png
 image:
-  feature: /assets/images/hero.webp
-  thumb: /assets/images/hero.webp
+  feature: /assets/images/thumbnails/how-to-decide-which-types-of-data-to-secure.png
+  thumb: /assets/images/thumbnails/how-to-decide-which-types-of-data-to-secure.png
 entries_layout: grid
 title: "How to Decide Which Types of Data to Secure"
 date: 2023-03-28
 tags:
   - Data Protection
+classes: wide
 ---
 
 Data protection is a complicated endeavor that can make businesses shudder. This is not surprising, given the constant and exponential increase in data, the difficulty in tracking all of it, along with the various regulatory requirements and standards that organizations need to comply with.   
