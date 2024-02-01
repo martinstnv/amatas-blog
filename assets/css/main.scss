@@ -9,17 +9,20 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 
-@media (min-width: 80em)
-.archive {
+@media (min-width: 80em) {
+  .archive {
     width: calc(100% - 300px);
     padding-right: 0px;
+  }
 }
 
-@media (min-width: 64em)
-.archive {
+@media (min-width: 64em) {
+  .archive {
     width: calc(100% - 300px);
     padding-right: 0px;
+  }
 }
+
 
 // Carousel
 
