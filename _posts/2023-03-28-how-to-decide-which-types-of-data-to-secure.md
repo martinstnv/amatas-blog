@@ -5,6 +5,7 @@ header:
 image:
   feature: /assets/images/hero.webp
   thumb: /assets/images/hero.webp
+entries_layout: grid
 title: "Data Protection: How to Decide Which Types of Data to Secure"
 date: 2023-03-28
 tags:

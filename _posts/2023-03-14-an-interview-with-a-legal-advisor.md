@@ -5,6 +5,7 @@ header:
 image:
   feature: /assets/images/hero.webp
   thumb: /assets/images/hero.webp
+entries_layout: grid
 title: "Navigating the Complex World of Data Privacy: An Interview with a Legal Advisor"
 date: 2023-03-14
 tags:
