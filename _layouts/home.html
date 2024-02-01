@@ -17,6 +17,10 @@ layout: archive
   {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
+
+  <a class="carousel-control-prev" onclick="moveSlide(-1)">&#10094;</a>
+  <a class="carousel-control-next" onclick="moveSlide(1)">&#10095;</a>
+
 </div>
 
 {% include paginator.html %}
