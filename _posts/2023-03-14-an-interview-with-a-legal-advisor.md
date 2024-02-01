@@ -1,7 +1,7 @@
 ---
 header:
   overlay_image: /assets/images/hero.webp
-  teaser: /assets/images/thumbnails/an-interview-with-a-legal-advisor
+  teaser: /assets/images/thumbnails/an-interview-with-a-legal-advisor.png
 image:
   feature: /assets/images/hero.webp
   thumb: /assets/images/hero.webp
