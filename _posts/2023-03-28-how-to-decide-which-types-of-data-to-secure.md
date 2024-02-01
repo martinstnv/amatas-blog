@@ -1,12 +1,12 @@
 ---
 header:
   overlay_image: /assets/images/hero.webp
-  teaser: /assets/images/hero.webp
+  teaser: /assets/images/thumbnails/how-to-decide-which-types-of-data-to-secure.png
 image:
   feature: /assets/images/hero.webp
   thumb: /assets/images/hero.webp
 entries_layout: grid
-title: "Data Protection: How to Decide Which Types of Data to Secure"
+title: "How to Decide Which Types of Data to Secure"
 date: 2023-03-28
 tags:
   - Data Protection
