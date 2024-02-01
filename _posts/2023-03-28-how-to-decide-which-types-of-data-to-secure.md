@@ -1,8 +1,9 @@
 ---
-layout: collection
+entries_layout: grid
+header:
+  overlay_image: https://amatas.com/wp-content/uploads/2023/09/hero-gradient-triage-3.webp
 title: "Data Protection: How to Decide Which Types of Data to Secure"
 date: 2023-03-28
-classes: wide
 tags:
   - Data Protection
 ---
