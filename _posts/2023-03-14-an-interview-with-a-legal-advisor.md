@@ -10,6 +10,7 @@ title: "An Interview with a Legal Advisor"
 date: 2023-03-14
 tags:
   - Data Privacy
+classes: wide
 ---
 
 We’ve decided to publish this data privacy interview as cybersecurity has turned into an ever-growing topic. To put it in the words of our Legal Advisor and Privacy Consultant, Nevena Temelkova: 
