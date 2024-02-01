@@ -1,7 +1,10 @@
 ---
-entries_layout: grid
 header:
   overlay_image: https://amatas.com/wp-content/uploads/2023/09/hero-gradient-triage-3.webp
+  teaser: https://amatas.com/wp-content/uploads/2023/09/hero-gradient-triage-3.webp
+image:
+  feature: https://amatas.com/wp-content/uploads/2023/09/hero-gradient-triage-3.webp
+  thumb: https://amatas.com/wp-content/uploads/2023/09/hero-gradient-triage-3.webp
 title: "Navigating the Complex World of Data Privacy: An Interview with a Legal Advisor"
 date: 2023-03-14
 tags:
