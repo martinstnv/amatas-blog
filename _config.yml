@@ -111,7 +111,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/amatasofficial"
-    - label: "GitHub"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://bg.linkedin.com/company/amatas-ltd"
 
@@ -121,7 +121,7 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/amatasofficial"
-    - label: "GitHub"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://bg.linkedin.com/company/amatas-ltd"
 
