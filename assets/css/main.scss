@@ -33,27 +33,27 @@ search: false
   color: #36657F;
 }
 
-a:link {
+.page__content a:link {
   color: rgb(5, 99, 193);
   text-decoration: none;
 }
 
-a:visited {
+.page__content a:visited {
   color: rgb(5, 99, 193);
   text-decoration: none;
 }
 
-a:hover {
+.page__content a:hover {
   color: rgb(5, 99, 193);
   text-decoration: none;
 }
 
-a:active {
+.page__content a:active {
   color: rgb(5, 99, 193);
   text-decoration: none;
 }
 
-p {
+.page__content p {
   text-align: justify;
   text-justify: inter-word;
 }
