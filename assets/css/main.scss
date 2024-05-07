@@ -34,23 +34,23 @@ search: false
   Page content ################################################################### */
 
 .page__content a:link, .page__taxonomy-item{
-  color: rgb(5, 99, 193);
-  text-decoration: none;
+  color: rgb(5, 99, 193) !important;
+  text-decoration: none !important;
 }
 
 .page__content a:visited, .page__taxonomy-item {
-  color: rgb(5, 99, 193);
-  text-decoration: none;
+  color: rgb(5, 99, 193) !important;
+  text-decoration: none !important;
 }
 
 .page__content a:hover, .page__taxonomy-item {
-  color: rgb(5, 99, 193);
-  text-decoration: none;
+  color: rgb(5, 99, 193) !important;
+  text-decoration: none !important;
 }
 
 .page__content a:active, .page__taxonomy-item {
-  color: rgb(5, 99, 193);
-  text-decoration: none;
+  color: rgb(5, 99, 193) !important;
+  text-decoration: none !important;
 }
 
 .page__content p {
@@ -63,11 +63,11 @@ blockquote {
 }
 
 .pagination--pager {
-  color: #36657F;
+  color: #36657F !important;
 }
 
 .pagination--pager:hover {
-  background-color: #36657F;
+  background-color: #36657F !important;
 }
 
 /* 
@@ -112,4 +112,9 @@ blockquote {
 
 * {
   font-family: Poppins, Poppins_EmbeddedFont, Poppins_MSFontService, sans-serif;
+}
+
+::selection {
+  color: #fff;
+  background: #36657F;
 }
