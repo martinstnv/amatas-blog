@@ -23,6 +23,44 @@ search: false
   }
 }
 
+// CUSTOM CSS
+
+#footer {
+  background-color: #000106;
+}
+
+.site-title {
+  color: #36657F;
+}
+
+a:link {
+  color: rgb(5, 99, 193);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(5, 99, 193);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(5, 99, 193);
+  text-decoration: none;
+}
+
+a:active {
+  color: rgb(5, 99, 193);
+  text-decoration: none;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+* {
+  font-family: Poppins, Poppins_EmbeddedFont, Poppins_MSFontService, sans-serif;
+}
 
 // Carousel
 
